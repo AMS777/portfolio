@@ -1,2 +1,3 @@
-# portfolio
-Website with a portfolio
+# Portfolio
+
+Website with a portfolio. It uses AWS and React.js.
